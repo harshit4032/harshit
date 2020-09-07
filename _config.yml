@@ -24,10 +24,6 @@ author: Sankalp Arora
 # List of links in the navigation bar
 navbar-links:
   Recommends: "books"
-  Blogs:
-    - Machine Learning: "https://www.google.co.in/"
-    - Artificial Intelligence: "https://www.google.co.in/"
-    - Space and Cosmos: "https://www.google.co.in/"
   About Me: "aboutme"
   Resume | CV: "CV_Sankalp_Arora_.pdf"
 #  Tags: "tags"
