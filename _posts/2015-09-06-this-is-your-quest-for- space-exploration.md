@@ -31,5 +31,5 @@ See I knew that you will really get intrigued into this space voyage, and if you
 * [ESA](http://www.esa.int/spaceinvideos/Videos): European Space Agency has to offer some really interesting space videos, amazing space stories and time lapses shots, plus you can download those videos from the links given below easily.<br>
 * [ISS Live](http://www.ustream.tv/channel/iss-hdev-payload): Mesmerising live feed from International Space Station (Note: If you see pitch black darkness, that's because the ISS is on Earth's night side, wait until it re-enters the daylight.)
 
-So if you have turned yourself into a space fanatic and curiosity drives your learning engine, then comment or share some amazing facts about space and the universe below, I would love to get into a discussion or maybe learn something new.<br>
+So if you have turned yourself into a space fanatic and curiosity drives your learning engine, then comment or share some amazing facts about space and the universe below, I would love to get into a discussion, learning something new.<br>
 Thank you for reading.
