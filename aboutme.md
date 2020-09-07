@@ -38,7 +38,7 @@ I enjoy contributing to and being part of a motivated team of smart people explo
 
 
 <center>
-	<a href="https://twitter.com/anuditverma" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @anuditverma</a>
+	<a href="https://twitter.com/sankalpness" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @sankalpness</a>
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <br>
