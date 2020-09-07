@@ -54,7 +54,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #890000;
+  color: #020647;
 }
 blockquote {
   color: #808080;
@@ -95,12 +95,12 @@ hr.small {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #890000;
+  background: #020647;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #890000;
+  background: #020647;
 }
 img::selection {
   color: white;
@@ -190,7 +190,7 @@ img {
 .navbar-custom .navbar-nav .nav-link:focus,
 .navbar-custom .navbar-nav .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-item:focus {
-  color: {{ site.hover-col | default: "#890000" }};
+  color: {{ site.hover-col | default: "#020647" }};
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -463,7 +463,7 @@ footer .footer-custom-content {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: {{ site.hover-col | default: "#890000" }};
+  color: {{ site.hover-col | default: "#020647" }};
 }
 
 .post-preview .post-title {
@@ -780,8 +780,8 @@ footer .footer-custom-content {
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
   color: #FFF;
-  background: #890000;
-  border: 1px solid #890000;
+  background: #020647;
+  border: 1px solid #020647;
 }
 
 /* --- Tables --- */
