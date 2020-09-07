@@ -13,11 +13,6 @@ author: Sankalp Arora
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
-# url is the the website domain URL without a trailing slash
-#url: "https://www.anudit.in/"
-
-# baseurl should be an empty string
-#baseurl: ""
 
 #For my changes
 # use meta-title: for the center heading of the page.
@@ -34,7 +29,7 @@ navbar-links:
     - Artificial Intelligence: "https://scholar.google.co.in/citations?user=4p4smu0AAAAJ"
     - Space and Cosmos: "https://www.researchgate.net/profile/Anudit_Verma"
   About Me: "aboutme"
-  Resume | CV: "resume/Anudit_Verma.pdf"
+  Resume | CV: "CV_Sankalp_Arora_.pdf"
 #  Tags: "tags"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -65,15 +60,14 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
 # email: "someone@example.com"
-  facebook: anuditverma
-  github: anuditverma
-  twitter: anuditverma
-# reddit: yourname
-  linkedin: anuditverma
+  email: "10sankalp.arora@gmail.com"
+  linkedin: sankalp-arora-10bbbb9a
+  github: sankalp-s
+# twitter: daattali
+  instagram: _shurui
 # xing: yourname
 # stackoverflow: 4590331/anudit-verma
 # snapchat: yourname
-  instagram: anuditverma
   rss: false
 # youtube: user/yourname
 # spotify: yourname
@@ -87,19 +81,21 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  Instagram: true
+  email: true
   linkedin: true
+  github: true
   vk: false
+
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "www.anudit.in"
+url-pretty: "sankalp-s.github.io"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+google_analytics: "UA-155288589-1"
 
 # Google Tag Manager ID
 #gtm: ""
@@ -107,7 +103,7 @@ google_analytics: "UA-84991519-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+disqus: "sankalpness"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
