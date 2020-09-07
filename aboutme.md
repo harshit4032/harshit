@@ -13,7 +13,7 @@ subtitle: "Creativity is contagious, pass it on - Albert Einstein"
 
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I am an undergraduate studying at National Institute of Technology, Kurukshetra, India (Institute of National Importance) pursuing (2018-2022) <strong>Bachelor of Technology</strong> degree in Electrical Engineering. At present I am a contributor and 
+I am an undergraduate studying at National Institute of Technology, Kurukshetra, India (Institute of National Importance) pursuing (2018-2022) <strong>Bachelor of Technology</strong> degree in Electrical Engineering. At present I am a contributor to Machine Learning and Optimization Laboratory at EPFL, Lussane, Switzerland.
 </p>
 
 <p class="about-text">
